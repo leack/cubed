@@ -3,7 +3,11 @@
   "private": true,
   "dependencies": {
     "jquery": "~2.1.1",
-    "modernizr": "~2.8.1"
+    "modernizr": "~2.8.1",
+    "normalize-strings": "normalize#~1.0.4",
+    "normalize-css": "normalize.css#~3.0.3",
+    "three.js": "threejs#*",
+    "stats.js": "*"
   },
   "devDependencies": {
     "chai": "~3.3.0",
